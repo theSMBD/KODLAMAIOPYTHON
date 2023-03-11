@@ -1,1 +1,3 @@
-
+egitmenler=["Tümü","Engin Demirog","Halit Enes Klayacı"]
+for egitmen in egitmenler:
+  print(egitmen)
