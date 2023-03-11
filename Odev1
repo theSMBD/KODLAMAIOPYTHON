@@ -4,7 +4,7 @@ Veri tipleri
 	1. int:integer türündeki sayıların gösterimi için kullanılır(ör:1,25,100)
 	2. float:noktalı sayıların-kesirli sayılar-gösterimi için kullanılır(ör:12.5,23.7,200.15)
 	3. complex:karmaşık sayıların gösteriminde kullanılır(ör:3.17e,5,6e)
-	• Stringler;phythonda tırnak işrati içersinide olan bitişik karakter kümesi olarak tanımlıdır.
+	• Stringler;pythonda tırnak işrati içersinide olan bitişik karakter kümesi olarak tanımlıdır.
 	• Listteler;diziler benzeri veri topluluğudur.Diziden farkı listelerdeki veri türlerinin aynı olmasına gerek yoktur. İçinde herhangi bir değişken int iken diğer bir değişken float veya string olabilir. Bir liste virgülle ayrılmış ve köşeli parantez içine alınmış ögeler içerir.
 	• Tuples:listeye benzer bir türdür. Virgülle ayrılmış bir dizi değerden oluşur.
 
